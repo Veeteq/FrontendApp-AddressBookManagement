@@ -1,4 +1,9 @@
-# AddressBookManagement2
+# AddressBookManagement
+
+ng add @angular-devkit/build-angular
+npm install tailwindcss @tailwindcss/postcss postcss
+npm install lucide-angular
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
 
